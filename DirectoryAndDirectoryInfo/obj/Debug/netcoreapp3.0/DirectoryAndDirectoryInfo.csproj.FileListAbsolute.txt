@@ -1,0 +1,11 @@
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.exe
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.deps.json
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.runtimeconfig.dev.json
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.dll
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.pdb
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.csprojAssemblyReference.cache
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.dll
+D:\Documentos\C#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp3.0\DirectoryAndDirectoryInfo.pdb
